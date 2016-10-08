@@ -20,7 +20,7 @@
 
 <!-- Device Info Settings -->
     <!-- Rom version -->
-    <string name="rom_version">PureNexus version</string>
+    <string name="rom_version">NOSP version</string>
     <string name="rom_version_default">Unknown</string>
     <!-- Vendor version -->
     <string name="vendor_version">Vendor version</string>
